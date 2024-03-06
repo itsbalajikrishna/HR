@@ -1,0 +1,301 @@
+S No,Completion Rate,Date of Registration,Date of Analysis,No. of Days,Progress Rate (% per day),Name,Age,Department,Grade,Role,Gender,Training Name,Group,Delivery Methods,Duration (in hours)
+1,73,09-04-2019,30-06-2019,82,0.89,Shawna,45.66,Sales,4,DGM,F,Budgeting Basics,Finance,Self-Paced,3
+2,71,09-04-2019,30-06-2019,82,0.87,Nathaniel,23.76,FP&A,1,Associate,M,Budgeting Basics,Finance,Self-Paced,3
+3,78,09-04-2019,30-06-2019,82,0.95,Elisabeth,22.68,Accounting,1,Associate,F,Budgeting Basics,Finance,Self-Paced,3
+4,30,19-04-2019,30-06-2019,72,0.42,Briana,41.7,Marketing,3,Mgr,F,Budgeting Basics,Finance,Self-Paced,3
+5,53,19-04-2019,30-06-2019,72,0.74,Estella,22.39,Accounting,1,Associate,F,Budgeting Basics,Finance,Self-Paced,3
+6,62,09-04-2019,30-06-2019,82,0.76,Lamont,25.81,FP&A,1,Associate,M,Budgeting Basics,Finance,Self-Paced,3
+7,54,09-04-2019,30-06-2019,82,0.66,Melinda,32.89,Finance Back Office,2,Asst Mgr,F,Budgeting Basics,Finance,Self-Paced,3
+8,54,19-04-2019,30-06-2019,72,0.75,Shanna,59.15,Accounting,5,VP,F,Budgeting Basics,Finance,Self-Paced,3
+9,54,09-04-2019,30-06-2019,82,0.66,Jasmine,55.95,FP&A,4,DGM,F,Budgeting Basics,Finance,Self-Paced,3
+10,44,19-04-2019,30-06-2019,72,0.61,Madge,35.84,IT Ops,3,Mgr,F,Budgeting Basics,Finance,Self-Paced,3
+11,1,21-03-2019,30-06-2019,101,0.01,Bethany,30.84,Finance Back Office,2,Asst Mgr,F,Decoding Your Analysis Statements,Finance,Assessments,3
+12,0,21-03-2019,30-06-2019,101,0.00,Reid,28.54,Finance Back Office,2,Asst Mgr,M,Decoding Your Analysis Statements,Finance,Assessments,3
+13,11,03-03-2019,30-06-2019,119,0.09,Antoine,21.44,Accounting,1,Associate,M,Decoding Your Analysis Statements,Finance,Assessments,3
+14,26,03-03-2019,30-06-2019,119,0.22,Mathew,22.08,Accounting,1,Associate,M,Decoding Your Analysis Statements,Finance,Assessments,3
+15,14,18-03-2019,30-06-2019,104,0.13,Bernardo,42.51,Finance Back Office,4,Sr Mgr,M,Decoding Your Analysis Statements,Finance,Assessments,3
+16,15,18-03-2019,30-06-2019,104,0.14,Cole,27.48,FP&A,2,Asst Mgr,M,Decoding Your Analysis Statements,Finance,Assessments,3
+17,1,03-03-2019,30-06-2019,119,0.01,Tonia,32.3,Finance Back Office,2,Asst Mgr,F,Decoding Your Analysis Statements,Finance,Assessments,3
+18,14,03-03-2019,30-06-2019,119,0.12,Tod,30.12,Finance Back Office,2,Asst Mgr,M,Decoding Your Analysis Statements,Finance,Assessments,3
+19,23,18-03-2019,30-06-2019,104,0.22,Yesenia,49.36,Accounting,4,Sr Mgr,F,Decoding Your Analysis Statements,Finance,Assessments,3
+20,14,18-03-2019,30-06-2019,104,0.13,Carey,45.21,Finance Back Office,4,Sr Mgr,M,Decoding Your Analysis Statements,Finance,Assessments,3
+21,61,07-03-2019,30-06-2019,115,0.53,Aileen,30.67,Finance Back Office,2,TL,F,Financial Modeling,Finance,Virtual Classroom,13
+22,75,07-01-2019,30-06-2019,174,0.43,Marta,46.47,Finance Back Office,4,Sr Mgr,F,Financial Modeling,Finance,Virtual Classroom,13
+23,71,07-03-2019,30-06-2019,115,0.62,Arthur,46.88,Finance Back Office,4,Sr Mgr,M,Financial Modeling,Finance,Virtual Classroom,13
+24,65,07-03-2019,30-06-2019,115,0.57,Tara,41.12,Finance Back Office,3,Mgr,F,Financial Modeling,Finance,Virtual Classroom,13
+25,87,07-01-2019,30-06-2019,174,0.50,Josef,40.98,Finance Back Office,3,Mgr,M,Financial Modeling,Finance,Virtual Classroom,13
+26,68,07-03-2019,30-06-2019,115,0.59,Keri,57.02,FP&A,4,Sr Mgr,F,Financial Modeling,Finance,Virtual Classroom,13
+27,77,07-01-2019,30-06-2019,174,0.44,Desmond,25.07,FP&A,1,Associate,M,Financial Modeling,Finance,Virtual Classroom,13
+28,72,07-03-2019,30-06-2019,115,0.63,Adrienne,42.21,Finance Back Office,3,Mgr,F,Financial Modeling,Finance,Virtual Classroom,13
+29,73,07-03-2019,30-06-2019,115,0.63,Beatriz,33.44,Finance Back Office,2,TL,F,Financial Modeling,Finance,Virtual Classroom,13
+30,87,07-01-2019,30-06-2019,174,0.50,Jermaine,27.54,Finance Back Office,2,TL,M,Financial Modeling,Finance,Virtual Classroom,13
+31,42,04-01-2019,30-06-2019,177,0.24,Scott,26.95,FP&A,2,TL,M,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+32,42,04-01-2019,30-06-2019,177,0.24,Isabel,45.67,Finance Back Office,4,Sr Mgr,F,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+33,43,04-01-2019,30-06-2019,177,0.24,Marcelino,21.52,Accounting,1,Associate,M,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+34,41,04-01-2019,30-06-2019,177,0.23,Benjamin,40.21,Finance Back Office,3,Mgr,M,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+35,44,30-03-2019,30-06-2019,92,0.48,Marcia,51.05,Accounting,4,Sr Mgr,F,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+36,44,12-04-2019,30-06-2019,79,0.56,Rudolph,38.28,Finance Back Office,3,Mgr,M,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+37,40,04-01-2019,30-06-2019,177,0.23,Beverly,42.43,Finance Back Office,3,Mgr,F,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+38,41,04-01-2019,30-06-2019,177,0.23,Marcus,40.09,Finance Back Office,3,Mgr,M,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+39,49,07-02-2019,30-06-2019,143,0.34,Priscilla,31.92,Finance Back Office,2,TL,F,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+40,40,06-01-2019,30-06-2019,175,0.23,Lynn,54.99,FP&A,4,Sr Mgr,F,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+41,46,12-04-2019,30-06-2019,79,0.58,Tessa,59.68,Accounting,5,Sr GM,F,Payments: Systems and Processes,Finance,Self-Paced,2
+42,44,04-01-2019,30-06-2019,177,0.25,Rufus,49.62,Accounting,4,Sr Mgr,M,Payments: Systems and Processes,Finance,Self-Paced,2
+43,49,05-04-2019,30-06-2019,86,0.57,Roman,54.63,Accounting,4,Sr Mgr,M,Payments: Systems and Processes,Finance,Self-Paced,2
+44,46,15-04-2019,30-06-2019,76,0.61,Carmela,42.39,Finance Back Office,3,Mgr,F,Payments: Systems and Processes,Finance,Self-Paced,2
+45,49,30-03-2019,30-06-2019,92,0.53,Thurman,21.52,Accounting,1,Associate,M,Payments: Systems and Processes,Finance,Self-Paced,2
+46,40,06-01-2019,30-06-2019,175,0.23,Lemuel,32.16,Finance Back Office,2,TL,M,Payments: Systems and Processes,Finance,Self-Paced,2
+47,49,15-04-2019,30-06-2019,76,0.64,Clint,23.25,FP&A,1,Associate,M,Payments: Systems and Processes,Finance,Self-Paced,2
+48,40,04-01-2019,30-06-2019,177,0.23,Karyn,34.21,Finance Back Office,3,Mgr,F,Payments: Systems and Processes,Finance,Self-Paced,2
+49,41,04-01-2019,30-06-2019,177,0.23,Lesa,36.48,Finance Back Office,3,Mgr,F,Payments: Systems and Processes,Finance,Self-Paced,2
+50,50,05-04-2019,30-06-2019,86,0.58,Rich,28.43,Finance Back Office,2,Associate,M,Payments: Systems and Processes,Finance,Self-Paced,2
+51,24,04-01-2019,30-06-2019,177,0.14,Liz,31.39,Finance Back Office,2,Associate,F,Treasury Management Fundamentals,Finance,Self-Paced,5
+52,67,04-01-2019,30-06-2019,177,0.38,Kendra,53.8,Accounting,4,Mgr,F,Treasury Management Fundamentals,Finance,Self-Paced,5
+53,80,30-03-2019,30-06-2019,92,0.87,Maryellen,41.85,Finance Back Office,3,Asst Mgr,F,Treasury Management Fundamentals,Finance,Self-Paced,5
+54,59,04-01-2019,30-06-2019,177,0.33,German,59.06,Accounting,4,Mgr,M,Treasury Management Fundamentals,Finance,Self-Paced,5
+55,41,04-01-2019,30-06-2019,177,0.23,Micheal,30.66,Finance Back Office,2,Associate,M,Treasury Management Fundamentals,Finance,Self-Paced,5
+56,79,12-04-2019,30-06-2019,79,1.00,Carlo,55.68,FP&A,4,Mgr,M,Treasury Management Fundamentals,Finance,Self-Paced,5
+57,64,04-01-2019,30-06-2019,177,0.36,Bianca,57.19,FP&A,4,Mgr,F,Treasury Management Fundamentals,Finance,Self-Paced,5
+58,86,30-03-2019,30-06-2019,92,0.93,Elias,27.06,FP&A,2,Associate,M,Treasury Management Fundamentals,Finance,Self-Paced,5
+59,68,06-01-2019,30-06-2019,175,0.39,Alberta,45.18,Finance Back Office,4,Mgr,F,Treasury Management Fundamentals,Finance,Self-Paced,5
+60,89,15-04-2019,30-06-2019,76,1.17,Erin,22.99,FP&A,1,Associate,M,Treasury Management Fundamentals,Finance,Self-Paced,5
+61,88,06-01-2019,30-06-2019,175,0.50,Frederic,47.82,Accounting,4,Mgr,M,Treasury Technology and Security Controls,Finance,Self-Paced,5
+62,67,04-01-2019,30-06-2019,177,0.38,Tanner,49.34,Accounting,4,Mgr,M,Treasury Technology and Security Controls,Finance,Self-Paced,5
+63,54,04-01-2019,30-06-2019,177,0.31,Clarence,35.09,Finance Back Office,3,Asst Mgr,M,Treasury Technology and Security Controls,Finance,Self-Paced,5
+64,44,05-04-2019,30-06-2019,86,0.51,German,26.02,FP&A,1,Associate,M,Treasury Technology and Security Controls,Finance,Self-Paced,5
+65,42,15-04-2019,30-06-2019,76,0.55,Dion,22.33,Accounting,1,Associate,M,Treasury Technology and Security Controls,Finance,Self-Paced,5
+66,28,30-03-2019,30-06-2019,92,0.30,Cornelius,47.19,Finance Back Office,4,Mgr,M,Treasury Technology and Security Controls,Finance,Self-Paced,5
+67,68,04-01-2019,30-06-2019,177,0.38,Patsy,33.06,Finance Back Office,2,Associate,F,Treasury Technology and Security Controls,Finance,Self-Paced,5
+68,85,04-01-2019,30-06-2019,177,0.48,Waldo,46.69,Finance Back Office,4,Mgr,M,Treasury Technology and Security Controls,Finance,Self-Paced,5
+69,44,04-01-2019,30-06-2019,177,0.25,Damien,52.07,Accounting,4,Mgr,M,Treasury Technology and Security Controls,Finance,Self-Paced,5
+70,38,05-04-2019,30-06-2019,86,0.44,Curt,38.79,Finance Back Office,3,Asst Mgr,M,Treasury Technology and Security Controls,Finance,Self-Paced,5
+71,2,21-05-2019,30-06-2019,40,0.05,Brenton,46.76,Pre-sales,4,Sr Mgr,M,Consultative Selling,Sales,Self-Paced,8
+72,17,21-05-2019,30-06-2019,40,0.43,Miguel,37.08,Pre-sales,3,Mgr,M,Consultative Selling,Sales,Self-Paced,8
+73,8,25-05-2019,30-06-2019,36,0.22,Esperanza,56.67,Sales,4,Sr Mgr,F,Consultative Selling,Sales,Self-Paced,8
+74,2,21-05-2019,30-06-2019,40,0.05,Patricia,41.73,Pre-sales,3,Mgr,F,Consultative Selling,Sales,Self-Paced,8
+75,6,21-05-2019,30-06-2019,40,0.15,Forrest,39.37,Pre-sales,3,Mgr,M,Consultative Selling,Sales,Self-Paced,8
+76,10,21-05-2019,30-06-2019,40,0.25,Marjorie,55.91,Sales,4,Sr Mgr,F,Consultative Selling,Sales,Self-Paced,8
+77,11,26-05-2019,30-06-2019,35,0.31,Vivian,57.5,Sales,4,Sr Mgr,F,Consultative Selling,Sales,Self-Paced,8
+78,12,21-05-2019,30-06-2019,40,0.30,Duncan,53.48,Pre-sales,4,Sr Mgr,M,Consultative Selling,Sales,Self-Paced,8
+79,13,29-05-2019,30-06-2019,32,0.41,Miriam,27.11,Marketing,2,Asst Mgr,F,Consultative Selling,Sales,Self-Paced,8
+80,0,21-05-2019,30-06-2019,40,0.00,Adam,54,Sales,4,DGM,M,Consultative Selling,Sales,Self-Paced,8
+81,16,21-05-2019,30-06-2019,40,0.40,Benjamin,41.23,Pre-sales,3,Mgr,M,Consultative Selling,Sales,Self-Paced,8
+82,12,21-05-2019,30-06-2019,40,0.30,Neil,31.88,Marketing,2,Asst Mgr,M,Consultative Selling,Sales,Self-Paced,8
+83,1,21-05-2019,30-06-2019,40,0.03,Nichole,59.7,Sales,5,VP,F,Consultative Selling,Sales,Self-Paced,8
+84,2,21-05-2019,30-06-2019,40,0.05,Jonathon,49.86,Pre-sales,4,Sr Mgr,M,Consultative Selling,Sales,Self-Paced,8
+85,0,21-05-2019,30-06-2019,40,0.00,Brent,57.26,Sales,4,DGM,M,Consultative Selling,Sales,Self-Paced,8
+86,40,12-03-2019,30-06-2019,110,0.36,Carlene,31.69,Operations,2,Asst Mgr,F,Delivering Effective Performance Appraisals,Performance,Assessments,1
+87,19,21-03-2019,30-06-2019,101,0.19,Arnulfo,44.87,HR,4,Sr Mgr,M,Delivering Effective Performance Appraisals,Performance,Assessments,1
+88,17,21-03-2019,30-06-2019,101,0.17,Nickolas,32.12,HR,2,Asst Mgr,M,Delivering Effective Performance Appraisals,Performance,Assessments,1
+89,4,21-03-2019,30-06-2019,101,0.04,Raymundo,42.28,Operations,3,Mgr,M,Delivering Effective Performance Appraisals,Performance,Assessments,1
+90,3,21-03-2019,30-06-2019,101,0.03,Jeremiah,29.05,Accounting,2,Asst Mgr,M,Delivering Effective Performance Appraisals,Performance,Assessments,1
+91,51,08-05-2019,30-06-2019,53,0.96,Tanner,40.87,Accounting,3,Mgr,M,Delivering Effective Performance Appraisals,Performance,Assessments,1
+92,13,21-03-2019,30-06-2019,101,0.13,Dorian,57.05,Operations,4,Sr Mgr,M,Delivering Effective Performance Appraisals,Performance,Assessments,1
+93,35,12-03-2019,30-06-2019,110,0.32,Nora,34.73,Operations,3,Mgr,F,Delivering Effective Performance Appraisals,Performance,Assessments,1
+94,10,21-03-2019,30-06-2019,101,0.10,Danial,57.99,Operations,4,Sr Mgr,M,Delivering Effective Performance Appraisals,Performance,Assessments,1
+95,23,25-04-2019,30-06-2019,66,0.35,Nelson,41.98,HR,3,Mgr,M,Delivering Effective Performance Appraisals,Performance,Assessments,1
+96,52,05-04-2019,30-06-2019,86,0.60,Manuel,34.06,Admin,2,Asst Mgr,M,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+97,58,05-04-2019,30-06-2019,86,0.67,Dominic,38.33,Sales,3,Mgr,M,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+98,30,05-05-2019,30-06-2019,56,0.54,Lowell,34.93,Operations,3,Mgr,M,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+99,52,05-04-2019,30-06-2019,86,0.60,Jayne,36.97,Sales,3,Mgr,F,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+100,38,05-05-2019,30-06-2019,56,0.68,Cornell,57.21,Operations,4,Sr Mgr,M,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+101,47,05-04-2019,30-06-2019,86,0.55,Doris,41.56,Operations,3,Mgr,F,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+102,61,05-04-2019,30-06-2019,86,0.71,Tabatha,51.17,Software Development,4,Sr Mgr,F,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+103,21,05-05-2019,30-06-2019,56,0.38,Jerome,28.65,HR,2,Asst Mgr,M,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+104,34,05-05-2019,30-06-2019,56,0.61,Elton,34.68,Operations,3,Mgr,M,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+105,54,05-04-2019,30-06-2019,86,0.63,Stacy,37.17,Operations,3,Mgr,M,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+106,88,14-06-2019,30-06-2019,16,5.50,Rory,41.42,HR,3,Mgr,M,"Diversity, Sensitivity, Harassment, and Respect in the Workplace",Workplace,Small Group Coaching,20
+107,84,07-06-2019,30-06-2019,23,3.65,Greg,53.33,Operations,4,Sr Mgr,M,"Diversity, Sensitivity, Harassment, and Respect in the Workplace",Workplace,Small Group Coaching,20
+108,86,14-06-2019,30-06-2019,16,5.38,Julian,59.33,Operations,5,VP,M,"Diversity, Sensitivity, Harassment, and Respect in the Workplace",Workplace,Small Group Coaching,20
+109,100,14-06-2019,30-06-2019,16,6.25,Agnes,41.65,Sales,3,Mgr,F,"Diversity, Sensitivity, Harassment, and Respect in the Workplace",Workplace,Small Group Coaching,20
+110,81,07-06-2019,30-06-2019,23,3.52,Nancy,37.28,Operations,3,Mgr,F,"Diversity, Sensitivity, Harassment, and Respect in the Workplace",Workplace,Small Group Coaching,20
+111,92,14-06-2019,30-06-2019,16,5.75,Tyrone,44.34,HR,4,Sr Mgr,M,"Diversity, Sensitivity, Harassment, and Respect in the Workplace",Workplace,Small Group Coaching,20
+112,92,14-06-2019,30-06-2019,16,5.75,Bradley,38.1,HR,3,Mgr,M,"Diversity, Sensitivity, Harassment, and Respect in the Workplace",Workplace,Small Group Coaching,20
+113,92,14-06-2019,30-06-2019,16,5.75,Emile,36.8,Operations,3,Mgr,M,"Diversity, Sensitivity, Harassment, and Respect in the Workplace",Workplace,Small Group Coaching,20
+114,84,07-06-2019,30-06-2019,23,3.65,Zachary,30.72,Operations,2,TL,M,"Diversity, Sensitivity, Harassment, and Respect in the Workplace",Workplace,Small Group Coaching,20
+115,84,07-06-2019,30-06-2019,23,3.65,Tara,46.53,Finance Back Office,4,Sr Mgr,F,"Diversity, Sensitivity, Harassment, and Respect in the Workplace",Workplace,Small Group Coaching,20
+116,93,29-04-2019,30-06-2019,62,1.50,Aubrey,23.64,Operations,1,Associate,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+117,70,15-04-2019,30-06-2019,76,0.92,Carroll,28.14,Operations,2,TL,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+118,72,15-04-2019,30-06-2019,76,0.95,Claudette,32.62,Operations,2,TL,F,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+119,94,29-04-2019,30-06-2019,62,1.52,Ricky,40.75,Operations,3,Mgr,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+120,73,22-04-2019,30-06-2019,69,1.06,Brian,38.68,Operations,3,Mgr,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+121,92,22-04-2019,30-06-2019,69,1.33,Nicholas,25.5,IT Ops,1,Associate,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+122,92,22-04-2019,30-06-2019,69,1.33,Eileen,53.25,Pre-sales,4,Sr Mgr,F,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+123,85,22-04-2019,30-06-2019,69,1.23,Colin,41.4,Operations,3,Mgr,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+124,81,22-04-2019,30-06-2019,69,1.17,Rosario,56.64,Operations,4,Sr Mgr,F,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+125,74,22-04-2019,30-06-2019,69,1.07,Salvador,23.43,Operations,1,Associate,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+126,87,06-01-2019,30-06-2019,175,0.50,Aldo,43.75,Operations,4,Sr Mgr,M,Handling Emotions in the Workplace,Workplace,Small Group Coaching,18
+127,87,06-01-2019,30-06-2019,175,0.50,Bret,37.85,Operations,3,Mgr,M,Handling Emotions in the Workplace,Workplace,Small Group Coaching,18
+128,56,06-01-2019,30-06-2019,175,0.32,Dominic,21.04,Operations,1,Associate,M,Handling Emotions in the Workplace,Workplace,Small Group Coaching,18
+129,75,06-01-2019,30-06-2019,175,0.43,Karina,59.78,Operations,5,Sr GM,F,Handling Emotions in the Workplace,Workplace,Small Group Coaching,18
+130,55,06-01-2019,30-06-2019,175,0.31,Marquis,32.68,Operations,2,TL,M,Handling Emotions in the Workplace,Workplace,Small Group Coaching,18
+131,42,06-01-2019,30-06-2019,175,0.24,Damon,53.03,Software Development,4,Sr Mgr,M,Handling Emotions in the Workplace,Workplace,Small Group Coaching,18
+132,91,06-01-2019,30-06-2019,175,0.52,Leonel,21.06,Operations,1,Associate,M,Handling Emotions in the Workplace,Workplace,Small Group Coaching,18
+133,51,06-01-2019,30-06-2019,175,0.29,Teddy,40.16,Operations,3,Mgr,M,Handling Emotions in the Workplace,Workplace,Small Group Coaching,18
+134,54,06-01-2019,30-06-2019,175,0.31,Alexandria,28.47,Operations,2,TL,F,Handling Emotions in the Workplace,Workplace,Small Group Coaching,18
+135,42,06-01-2019,30-06-2019,175,0.24,Margaret,45.84,Admin,4,Sr Mgr,F,Handling Emotions in the Workplace,Workplace,Small Group Coaching,18
+136,18,06-02-2019,30-06-2019,144,0.13,Willis,38.03,Operations,3,Mgr,M,Improving Managerial Effectiveness,Managerial,Assessments,2
+137,1,04-01-2019,30-06-2019,177,0.01,Donovan,30.42,Operations,2,TL,M,Improving Managerial Effectiveness,Managerial,Assessments,2
+138,6,30-03-2019,30-06-2019,92,0.07,Kristina,38.94,Admin,3,Mgr,F,Improving Managerial Effectiveness,Managerial,Assessments,2
+139,12,05-04-2019,30-06-2019,86,0.14,Garth,47.74,Operations,4,Sr Mgr,M,Improving Managerial Effectiveness,Managerial,Assessments,2
+140,0,04-01-2019,30-06-2019,177,0.00,Martin,42.9,Pre-sales,4,Sr Mgr,M,Improving Managerial Effectiveness,Managerial,Assessments,2
+141,10,05-04-2019,30-06-2019,86,0.12,Irwin,42.22,Admin,3,Mgr,M,Improving Managerial Effectiveness,Managerial,Assessments,2
+142,19,07-02-2019,30-06-2019,143,0.13,Reynaldo,51.82,Operations,4,Sr Mgr,M,Improving Managerial Effectiveness,Managerial,Assessments,2
+143,2,04-01-2019,30-06-2019,177,0.01,Sherri,26.18,Operations,1,Associate,F,Improving Managerial Effectiveness,Managerial,Assessments,2
+144,10,30-03-2019,30-06-2019,92,0.11,Johnny,54.77,Operations,4,Sr Mgr,M,Improving Managerial Effectiveness,Managerial,Assessments,2
+145,13,04-04-2019,30-06-2019,87,0.15,Earnest,52.44,Operations,4,Sr Mgr,M,Improving Managerial Effectiveness,Managerial,Assessments,2
+146,49,15-04-2019,30-06-2019,76,0.64,Bernardo,54.21,Accounting,4,Sr Mgr,M,Leadership Workshop Series,Leadership,Virtual Classroom,3
+147,18,15-04-2019,30-06-2019,76,0.24,Yvette,21.13,Operations,1,Associate,F,Leadership Workshop Series,Leadership,Virtual Classroom,3
+148,11,15-04-2019,30-06-2019,76,0.14,Robby,43.39,Finance Back Office,4,Sr Mgr,M,Leadership Workshop Series,Leadership,Virtual Classroom,3
+149,44,15-04-2019,30-06-2019,76,0.58,Carolina,22.76,Accounting,1,Associate,F,Leadership Workshop Series,Leadership,Virtual Classroom,3
+150,34,15-04-2019,30-06-2019,76,0.45,Sonia,52.1,Accounting,4,Sr Mgr,F,Leadership Workshop Series,Leadership,Virtual Classroom,3
+151,42,15-04-2019,30-06-2019,76,0.55,Larry,47.57,Operations,4,Sr Mgr,M,Leadership Workshop Series,Leadership,Virtual Classroom,3
+152,29,15-04-2019,30-06-2019,76,0.38,Esmeralda,26.62,FP&A,1,Associate,F,Leadership Workshop Series,Leadership,Virtual Classroom,3
+153,30,15-04-2019,30-06-2019,76,0.39,Candy,36.1,Operations,3,Mgr,F,Leadership Workshop Series,Leadership,Virtual Classroom,3
+154,10,15-04-2019,30-06-2019,76,0.13,Emma,50.9,Accounting,4,Sr Mgr,F,Leadership Workshop Series,Leadership,Virtual Classroom,3
+155,40,Nil,30-06-2019,#VALUE!,#VALUE!,Scot,37.02,Procurement,3,Mgr,M,Negotiation Skills for Procurement,Commercial,Social Learning,4
+156,32,Nil,30-06-2019,#VALUE!,#VALUE!,Rolland,51.01,Procurement,4,Sr Mgr,M,Negotiation Skills for Procurement,Commercial,Social Learning,4
+157,30,Nil,30-06-2019,#VALUE!,#VALUE!,Tommie,43.17,Procurement,4,Sr Mgr,F,Negotiation Skills for Procurement,Commercial,Social Learning,4
+158,26,Nil,30-06-2019,#VALUE!,#VALUE!,Jessie,35.88,Operations,3,Mgr,M,Negotiation Skills for Procurement,Commercial,Social Learning,4
+159,33,Nil,30-06-2019,#VALUE!,#VALUE!,Isiah,51.98,Procurement,4,Sr Mgr,M,Negotiation Skills for Procurement,Commercial,Social Learning,4
+160,40,Nil,30-06-2019,#VALUE!,#VALUE!,Janelle,55.21,Procurement,4,Sr Mgr,F,Negotiation Skills for Procurement,Commercial,Social Learning,4
+161,35,Nil,30-06-2019,#VALUE!,#VALUE!,Christoper,37.93,IT Ops,3,Mgr,M,Negotiation Skills for Procurement,Commercial,Social Learning,4
+162,64,Nil,30-06-2019,#VALUE!,#VALUE!,Kathie,30.7,IT Ops,2,TL,F,Negotiation Skills for Procurement,Commercial,Social Learning,4
+163,69,Nil,30-06-2019,#VALUE!,#VALUE!,Antonia,32.48,Operations,2,TL,F,Negotiation Skills for Procurement,Commercial,Social Learning,4
+164,80,Nil,30-06-2019,#VALUE!,#VALUE!,Ophelia,45.52,Procurement,4,Sr Mgr,F,Negotiation Skills for Procurement,Commercial,Social Learning,4
+165,92,17-02-2019,30-06-2019,133,0.69,Hallie,38.1,HR,3,Mgr,F,Problem Solving,Managerial,Small Group Coaching,26
+166,93,17-02-2019,30-06-2019,133,0.70,Adriana,38.94,Operations,3,Mgr,F,Problem Solving,Managerial,Small Group Coaching,26
+167,94,21-02-2019,30-06-2019,129,0.73,Jana,49.6,Operations,4,Sr Mgr,F,Problem Solving,Managerial,Small Group Coaching,26
+168,97,21-02-2019,30-06-2019,129,0.75,Quentin,37.38,Operations,3,Mgr,M,Problem Solving,Managerial,Small Group Coaching,26
+169,93,17-02-2019,30-06-2019,133,0.70,Debra,26.69,Operations,1,Associate,F,Problem Solving,Managerial,Small Group Coaching,26
+170,95,21-02-2019,30-06-2019,129,0.74,Kenton,24.54,HR,1,Associate,M,Problem Solving,Managerial,Small Group Coaching,26
+171,91,17-02-2019,30-06-2019,133,0.68,Ian,51.87,HR,4,Sr Mgr,M,Problem Solving,Managerial,Small Group Coaching,26
+172,96,21-02-2019,30-06-2019,129,0.74,Jasper,35.88,Operations,3,Mgr,M,Problem Solving,Managerial,Small Group Coaching,26
+173,97,21-02-2019,30-06-2019,129,0.75,Brock,49.45,HR,4,Sr Mgr,M,Problem Solving,Managerial,Small Group Coaching,26
+174,92,17-02-2019,30-06-2019,133,0.69,Salvador,48.34,Operations,4,Sr Mgr,M,Problem Solving,Managerial,Small Group Coaching,26
+175,21,25-05-2019,30-06-2019,36,0.58,Terence,40.89,Software Development,3,Mgr,M,Python and DevOps,IT,Virtual Classroom,20
+176,23,25-05-2019,30-06-2019,36,0.64,Dario,55.25,Software Development,4,Sr Mgr,M,Python and DevOps,IT,Virtual Classroom,20
+177,55,01-03-2019,30-06-2019,121,0.45,Ester,39.41,Software Development,3,Mgr,F,Python and DevOps,IT,Virtual Classroom,20
+178,60,01-03-2019,30-06-2019,121,0.50,Leanne,53.58,Software Development,4,Sr Mgr,F,Python and DevOps,IT,Virtual Classroom,20
+179,37,25-05-2019,30-06-2019,36,1.03,Valentin,51.76,IT Ops,4,Sr Mgr,M,Python and DevOps,IT,Virtual Classroom,20
+180,31,25-05-2019,30-06-2019,36,0.86,Jared,21.35,IT Ops,1,Associate,M,Python and DevOps,IT,Virtual Classroom,20
+181,39,25-05-2019,30-06-2019,36,1.08,Jami,31.35,IT Ops,2,Associate,F,Python and DevOps,IT,Virtual Classroom,20
+182,20,25-05-2019,30-06-2019,36,0.56,Bruno,41.38,Software Development,3,Mgr,M,Python and DevOps,IT,Virtual Classroom,20
+183,55,01-03-2019,30-06-2019,121,0.45,Garland,55.57,Software Development,4,Sr Mgr,M,Python and DevOps,IT,Virtual Classroom,20
+184,51,01-03-2019,30-06-2019,121,0.42,Augustus,25.19,IT Ops,1,Associate,M,Python and DevOps,IT,Virtual Classroom,20
+185,44,02-02-2019,30-06-2019,148,0.30,Luther,25.34,IT Ops,1,Associate,M,Automation Technologies,IT,Self-Paced,13
+186,41,02-02-2019,30-06-2019,148,0.28,Jimmy,51.26,IT Ops,4,GM,M,Automation Technologies,IT,Self-Paced,13
+187,85,02-02-2019,30-06-2019,148,0.57,Morton,56.97,IT Ops,4,GM,M,Automation Technologies,IT,Self-Paced,13
+188,71,02-02-2019,30-06-2019,148,0.48,Andrew,30.42,IT Ops,2,Asst Mgr,M,Automation Technologies,IT,Self-Paced,13
+189,98,02-02-2019,30-06-2019,148,0.66,Ava,45.21,IT Ops,4,GM,F,Automation Technologies,IT,Self-Paced,13
+190,57,02-02-2019,30-06-2019,148,0.39,Anastasia,24.61,IT Ops,1,Associate,F,Automation Technologies,IT,Self-Paced,13
+191,58,02-02-2019,30-06-2019,148,0.39,Sabrina,35.59,Software Development,3,Mgr,F,Automation Technologies,IT,Self-Paced,13
+192,77,02-02-2019,30-06-2019,148,0.52,Kirsten,48.81,IT Ops,4,GM,F,Automation Technologies,IT,Self-Paced,13
+193,84,02-02-2019,30-06-2019,148,0.57,Tabatha,41.02,Software Development,3,Mgr,F,Automation Technologies,IT,Self-Paced,13
+194,33,02-02-2019,30-06-2019,148,0.22,Gregg,58.24,IT Ops,4,GM,M,Automation Technologies,IT,Self-Paced,13
+195,75,02-02-2019,30-06-2019,148,0.51,Deanne,43.59,Software Development,4,GM,F,Automation Technologies,IT,Self-Paced,13
+196,58,02-02-2019,30-06-2019,148,0.39,Juanita,42.81,Software Development,4,GM,F,Automation Technologies,IT,Self-Paced,13
+197,39,02-02-2019,30-06-2019,148,0.26,Doug,25.65,IT Ops,1,Associate,M,Automation Technologies,IT,Self-Paced,13
+198,80,02-02-2019,30-06-2019,148,0.54,Billy,33.83,IT Ops,2,Asst Mgr,M,Automation Technologies,IT,Self-Paced,13
+199,46,02-02-2019,30-06-2019,148,0.31,Boyd,30.16,IT Ops,2,Asst Mgr,M,Automation Technologies,IT,Self-Paced,13
+200,8,30-03-2019,30-06-2019,92,0.09,Shawna,45.66,Sales,4,Sr Mgr,F,Improving Managerial Effectiveness,Managerial,Assessments,2
+201,0,04-01-2019,30-06-2019,177,0.00,Nathaniel,23.76,FP&A,1,Associate,M,Improving Managerial Effectiveness,Managerial,Assessments,2
+202,10,15-04-2019,30-06-2019,76,0.13,Elisabeth,22.68,Accounting,1,Associate,F,Improving Managerial Effectiveness,Managerial,Assessments,2
+203,4,04-01-2019,30-06-2019,177,0.02,Briana,41.7,Marketing,3,Mgr,F,Improving Managerial Effectiveness,Managerial,Assessments,2
+204,15,05-04-2019,30-06-2019,86,0.17,Estella,22.39,Accounting,1,Associate,F,Improving Managerial Effectiveness,Managerial,Assessments,2
+205,19,04-02-2019,30-06-2019,146,0.13,Lamont,25.81,FP&A,1,Associate,M,Improving Managerial Effectiveness,Managerial,Assessments,2
+206,5,06-01-2019,30-06-2019,175,0.03,Melinda,32.89,Finance Back Office,2,TL,F,Improving Managerial Effectiveness,Managerial,Assessments,2
+207,5,04-01-2019,30-06-2019,177,0.03,Shanna,59.15,Accounting,5,Sr GM,F,Improving Managerial Effectiveness,Managerial,Assessments,2
+208,9,15-04-2019,30-06-2019,76,0.12,Jasmine,55.95,Operations,4,Sr Mgr,F,Improving Managerial Effectiveness,Managerial,Assessments,2
+209,6,12-04-2019,30-06-2019,79,0.08,Madge,35.84,Finance Back Office,3,Mgr,F,Improving Managerial Effectiveness,Managerial,Assessments,2
+210,70,07-03-2019,30-06-2019,115,0.61,Bethany,30.84,Finance Back Office,2,TL,F,Financial Modeling,Finance,Virtual Classroom,13
+211,75,07-01-2019,30-06-2019,174,0.43,Reid,28.54,Finance Back Office,2,TL,M,Financial Modeling,Finance,Virtual Classroom,13
+212,62,07-03-2019,30-06-2019,115,0.54,Antoine,21.44,Accounting,1,Associate,M,Financial Modeling,Finance,Virtual Classroom,13
+213,82,07-01-2019,30-06-2019,174,0.47,Mathew,22.08,Accounting,1,Associate,M,Financial Modeling,Finance,Virtual Classroom,13
+214,87,07-01-2019,30-06-2019,174,0.50,Bernardo,42.51,Finance Back Office,3,Mgr,M,Financial Modeling,Finance,Virtual Classroom,13
+215,68,07-03-2019,30-06-2019,115,0.59,Cole,27.48,FP&A,2,TL,M,Financial Modeling,Finance,Virtual Classroom,13
+216,82,07-01-2019,30-06-2019,174,0.47,Tonia,32.3,Finance Back Office,2,TL,F,Financial Modeling,Finance,Virtual Classroom,13
+217,80,07-01-2019,30-06-2019,174,0.46,Tod,30.12,Finance Back Office,2,TL,M,Financial Modeling,Finance,Virtual Classroom,13
+218,69,07-03-2019,30-06-2019,115,0.60,Yesenia,49.36,Accounting,4,Sr Mgr,F,Financial Modeling,Finance,Virtual Classroom,13
+219,86,07-01-2019,30-06-2019,174,0.49,Carey,45.21,Finance Back Office,4,Sr Mgr,M,Financial Modeling,Finance,Virtual Classroom,13
+220,42,04-01-2019,30-06-2019,177,0.24,Scott,26.95,FP&A,1,Associate,M,Payments: Systems and Processes,Finance,Self-Paced,2
+221,46,30-03-2019,30-06-2019,92,0.50,Isabel,45.67,Finance Back Office,4,Sr Mgr,F,Payments: Systems and Processes,Finance,Self-Paced,2
+222,44,04-01-2019,30-06-2019,177,0.25,Marcelino,21.52,Accounting,1,Associate,M,Payments: Systems and Processes,Finance,Self-Paced,2
+223,44,06-01-2019,30-06-2019,175,0.25,Benjamin,40.21,Operations,3,Mgr,M,Payments: Systems and Processes,Finance,Self-Paced,2
+224,50,04-04-2019,30-06-2019,87,0.57,Marcia,51.05,Accounting,4,Sr Mgr,F,Payments: Systems and Processes,Finance,Self-Paced,2
+225,43,04-01-2019,30-06-2019,177,0.24,Rudolph,38.28,Finance Back Office,3,Mgr,M,Payments: Systems and Processes,Finance,Self-Paced,2
+226,50,06-02-2019,30-06-2019,144,0.35,Beverly,42.43,Finance Back Office,3,Mgr,F,Payments: Systems and Processes,Finance,Self-Paced,2
+227,40,04-02-2019,30-06-2019,146,0.27,Marcus,40.09,Finance Back Office,3,Mgr,M,Payments: Systems and Processes,Finance,Self-Paced,2
+228,46,30-03-2019,30-06-2019,92,0.50,Priscilla,31.92,Finance Back Office,2,TL,F,Payments: Systems and Processes,Finance,Self-Paced,2
+229,50,05-04-2019,30-06-2019,86,0.58,Lynn,54.99,Accounting,4,Sr Mgr,F,Payments: Systems and Processes,Finance,Self-Paced,2
+230,46,30-03-2019,30-06-2019,92,0.50,Tessa,59.68,Accounting,5,Sr GM,F,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+231,49,06-02-2019,30-06-2019,144,0.34,Rufus,49.62,Accounting,4,Sr Mgr,M,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+232,44,30-03-2019,30-06-2019,92,0.48,Roman,54.63,Accounting,4,Sr Mgr,M,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+233,48,05-04-2019,30-06-2019,86,0.56,Carmela,42.39,Finance Back Office,3,Mgr,F,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+234,48,15-04-2019,30-06-2019,76,0.63,Thurman,21.52,Accounting,1,Associate,M,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+235,48,04-04-2019,30-06-2019,87,0.55,Lemuel,32.16,Finance Back Office,2,TL,M,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+236,47,05-04-2019,30-06-2019,86,0.55,Clint,23.25,FP&A,1,Associate,M,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+237,43,06-01-2019,30-06-2019,175,0.25,Karyn,34.21,Finance Back Office,3,Mgr,F,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+238,44,15-04-2019,30-06-2019,76,0.58,Lesa,36.48,Finance Back Office,3,Mgr,F,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+239,48,05-04-2019,30-06-2019,86,0.56,Rich,28.43,Finance Back Office,2,TL,M,Payments Fraud and Cybercrime,Finance,Self-Paced,5
+240,38,12-03-2019,30-06-2019,110,0.35,Brenton,46.76,Pre-sales,4,Sr Mgr,M,Delivering Effective Performance Appraisals,Performance,Assessments,1
+241,48,08-05-2019,30-06-2019,53,0.91,Miguel,37.08,Pre-sales,3,Mgr,M,Delivering Effective Performance Appraisals,Performance,Assessments,1
+242,45,12-03-2019,30-06-2019,110,0.41,Esperanza,56.67,Sales,4,Sr Mgr,F,Delivering Effective Performance Appraisals,Performance,Assessments,1
+243,13,21-03-2019,30-06-2019,101,0.13,Patricia,41.73,Operations,3,Mgr,F,Delivering Effective Performance Appraisals,Performance,Assessments,1
+244,29,25-04-2019,30-06-2019,66,0.44,Forrest,39.37,Pre-sales,3,Mgr,M,Delivering Effective Performance Appraisals,Performance,Assessments,1
+245,33,25-04-2019,30-06-2019,66,0.50,Marjorie,55.91,Sales,4,Sr Mgr,F,Delivering Effective Performance Appraisals,Performance,Assessments,1
+246,55,05-04-2019,30-06-2019,86,0.64,Vivian,57.5,Sales,4,Sr Mgr,F,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+247,30,05-05-2019,30-06-2019,56,0.54,Duncan,53.48,Pre-sales,4,Sr Mgr,M,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+248,53,05-04-2019,30-06-2019,86,0.62,Miriam,27.11,Marketing,2,Asst Mgr,F,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+249,65,05-04-2019,30-06-2019,86,0.76,Adam,54,Sales,4,Sr Mgr,M,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+250,52,05-04-2019,30-06-2019,86,0.60,Benjamin,41.23,Pre-sales,3,Mgr,M,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+251,43,05-04-2019,30-06-2019,86,0.50,Neil,31.88,Marketing,2,Asst Mgr,M,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+252,41,05-05-2019,30-06-2019,56,0.73,Nichole,59.7,Operations,5,VP,F,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+253,45,05-04-2019,30-06-2019,86,0.52,Jonathon,49.86,Pre-sales,4,Sr Mgr,M,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+254,60,05-04-2019,30-06-2019,86,0.70,Brent,57.26,Sales,4,Sr Mgr,M,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+255,87,07-01-2019,30-06-2019,174,0.50,Bernardo,54.21,Accounting,4,Sr Mgr,M,Financial Modeling,Finance,Virtual Classroom,13
+256,81,07-01-2019,30-06-2019,174,0.47,Yvette,21.13,Accounting,1,Associate,F,Financial Modeling,Finance,Virtual Classroom,13
+257,77,07-01-2019,30-06-2019,174,0.44,Robby,43.39,Finance Back Office,4,Sr Mgr,M,Financial Modeling,Finance,Virtual Classroom,13
+258,63,07-03-2019,30-06-2019,115,0.55,Carolina,22.76,Accounting,1,Associate,F,Financial Modeling,Finance,Virtual Classroom,13
+259,79,07-01-2019,30-06-2019,174,0.45,Sonia,52.1,Accounting,4,Sr Mgr,F,Financial Modeling,Finance,Virtual Classroom,13
+260,61,09-04-2019,30-06-2019,82,0.74,Larry,47.57,Operations,4,DGM,M,Budgeting Basics,Finance,Self-Paced,3
+261,36,19-04-2019,30-06-2019,72,0.50,Esmeralda,26.62,FP&A,1,Associate,F,Budgeting Basics,Finance,Self-Paced,3
+262,40,19-04-2019,30-06-2019,72,0.56,Candy,36.1,Operations,3,Mgr,F,Budgeting Basics,Finance,Self-Paced,3
+263,30,19-04-2019,30-06-2019,72,0.42,Emma,50.9,Accounting,4,DGM,F,Budgeting Basics,Finance,Self-Paced,3
+264,100,14-06-2019,30-06-2019,16,6.25,Scot,37.02,Procurement,3,Mgr,M,"Diversity, Sensitivity, Harassment, and Respect in the Workplace",Workplace,Small Group Coaching,20
+265,85,14-06-2019,30-06-2019,16,5.31,Rolland,51.01,Procurement,4,Sr Mgr,M,"Diversity, Sensitivity, Harassment, and Respect in the Workplace",Workplace,Small Group Coaching,20
+266,80,07-06-2019,30-06-2019,23,3.48,Tommie,43.17,Procurement,4,Sr Mgr,F,"Diversity, Sensitivity, Harassment, and Respect in the Workplace",Workplace,Small Group Coaching,20
+267,81,07-06-2019,30-06-2019,23,3.52,Jessie,35.88,Operations,3,Mgr,M,"Diversity, Sensitivity, Harassment, and Respect in the Workplace",Workplace,Small Group Coaching,20
+268,93,14-06-2019,30-06-2019,16,5.81,Isiah,51.98,Procurement,4,Sr Mgr,M,"Diversity, Sensitivity, Harassment, and Respect in the Workplace",Workplace,Small Group Coaching,20
+269,37,05-05-2019,30-06-2019,56,0.66,Janelle,55.21,Procurement,4,Sr Mgr,F,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+270,26,05-05-2019,30-06-2019,56,0.46,Christoper,37.93,IT Ops,3,Mgr,M,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+271,42,05-05-2019,30-06-2019,56,0.75,Kathie,30.7,IT Ops,2,Asst Mgr,F,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+272,66,05-04-2019,30-06-2019,86,0.77,Antonia,32.48,Operations,2,Asst Mgr,F,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+273,20,05-05-2019,30-06-2019,56,0.36,Ophelia,45.52,Procurement,4,Sr Mgr,F,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+274,75,22-04-2019,30-06-2019,69,1.09,Aldo,43.75,Operations,4,Sr Mgr,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+275,93,22-04-2019,30-06-2019,69,1.35,Bret,37.85,Operations,3,Mgr,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+276,70,15-04-2019,30-06-2019,76,0.92,Dominic,21.04,Operations,1,Associate,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+277,90,22-04-2019,30-06-2019,69,1.30,Karina,59.78,Operations,5,Sr GM,F,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+278,94,29-04-2019,30-06-2019,62,1.52,Marquis,32.68,Operations,2,TL,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+279,81,22-04-2019,30-06-2019,69,1.17,Damon,53.03,Software Development,4,Sr Mgr,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+280,72,15-04-2019,30-06-2019,76,0.95,Leonel,21.06,Operations,1,Associate,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+281,42,15-04-2019,30-06-2019,76,0.55,Teddy,40.16,Operations,3,Mgr,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+282,21,08-04-2019,30-06-2019,83,0.25,Alexandria,28.47,Operations,2,TL,F,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+283,38,15-04-2019,30-06-2019,76,0.50,Margaret,45.84,Admin,4,Sr Mgr,F,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+284,50,05-04-2019,30-06-2019,86,0.58,Terence,40.89,Software Development,3,Mgr,M,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+285,54,05-04-2019,30-06-2019,86,0.63,Dario,55.25,Software Development,4,Sr Mgr,M,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+286,54,05-04-2019,30-06-2019,86,0.63,Ester,39.41,Software Development,3,Mgr,F,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+287,33,05-05-2019,30-06-2019,56,0.59,Leanne,53.58,Software Development,4,Sr Mgr,F,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+288,24,05-05-2019,30-06-2019,56,0.43,Valentin,51.76,IT Ops,4,Sr Mgr,M,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+289,47,05-04-2019,30-06-2019,86,0.55,Jared,21.35,IT Ops,1,Associate,M,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+290,38,05-05-2019,30-06-2019,56,0.68,Jami,31.35,IT Ops,2,Asst Mgr,F,Diversity and Sensitivity in the Workplace for Management,Workplace,Virtual Classroom,5
+291,23,08-04-2019,30-06-2019,83,0.28,Bruno,41.38,Software Development,3,Mgr,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+292,34,08-04-2019,30-06-2019,83,0.41,Garland,55.57,Software Development,4,Sr Mgr,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+293,21,08-04-2019,30-06-2019,83,0.25,Augustus,25.19,IT Ops,1,Associate,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+294,42,15-04-2019,30-06-2019,76,0.55,Luther,25.34,IT Ops,1,Associate,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+295,26,08-04-2019,30-06-2019,83,0.31,Jimmy,51.26,IT Ops,4,Sr Mgr,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+296,42,15-04-2019,30-06-2019,76,0.55,Morton,56.97,IT Ops,4,Sr Mgr,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+297,26,08-04-2019,30-06-2019,83,0.31,Andrew,30.42,IT Ops,2,TL,M,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+298,28,08-04-2019,30-06-2019,83,0.34,Ava,45.21,IT Ops,4,Sr Mgr,F,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+299,21,08-04-2019,30-06-2019,83,0.25,Anastasia,24.61,IT Ops,1,Associate,F,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
+300,24,08-04-2019,30-06-2019,83,0.29,Sabrina,35.59,Software Development,3,Mgr,F,Emotional Intelligence for Front Line Managers,Workplace,Virtual Classroom,3
